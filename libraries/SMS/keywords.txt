@@ -1,0 +1,12 @@
+PDUConverter	KEYWORD1
+PDUDataAdapter	KEYWORD1
+SMSService	KEYWORD1
+TemperatureCondition	KEYWORD1
+CommandHandler	KEYWORD1
+encode	KEYWORD2
+getLength	KEYWORD2
+getPDU	KEYWORD2
+sendSMS	KEYWORD2
+readSMS	KEYWORD2
+handle	KEYWORD2
+checkCondition	KEYWORD2
